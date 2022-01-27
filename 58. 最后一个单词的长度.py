@@ -28,12 +28,7 @@ class Solution:
 
 
 if __name__ == '__main__':
-    i=input('输入数字')
-    match i:
-        case '1':
-            print(i)
-        case '2':
-            print(i)
+
 
 
     # s.split()

@@ -21,26 +21,12 @@
 
 class Solution:
     def isValid(self, s: str) -> bool:
-
-        l = len(s)
-        if len(s)%2!=2:
-            return False
-        for i in range(l/2):
-            if s[l-1-i] ==s[l+i-1]:
-
-
+        pass
 
 
 
 
 if __name__ == '__main__':
-    solution = Solution()
-
-    p = solution.isValid('()[]{}')
-    # print(p)
-    {{()}}{}({})
-
-    []{}{}
-
+    pass
 
 
